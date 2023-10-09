@@ -1,0 +1,5 @@
+Design and implement the purchase capture interface
+Implement logic to deduct available money when goods are purchased
+Implement logic to add purchased goods to the inventory
+Link the purchased goods to a specific disaster
+Implement authorization to ensure only authorized users can capture purchases
